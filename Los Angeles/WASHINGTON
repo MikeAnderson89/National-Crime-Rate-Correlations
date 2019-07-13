@@ -1,0 +1,11 @@
+,crime_type,id,key,name,type,value,variable,year
+0,Robbery,1600000US1150000,1600000US1150000--2017--Robbery--rate,"Washington, District of columbia",place,338.7744750508666,rate,2017
+17,Larceny,1600000US1150000,1600000US1150000--2017--Larceny--rate,"Washington, District of columbia",place,3528.9608226268497,rate,2017
+15,Property crime,1600000US1150000,1600000US1150000--2017--Property crime--rate,"Washington, District of columbia",place,4156.219559290576,rate,2017
+14,Murder and nonnegligent manslaughter,1600000US1150000,1600000US1150000--2017--Murder and nonnegligent manslaughter--rate,"Washington, District of columbia",place,16.715371801744162,rate,2017
+12,Burglary,1600000US1150000,1600000US1150000--2017--Burglary--rate,"Washington, District of columbia",place,260.5292432547711,rate,2017
+11,Aggravated assault,1600000US1150000,1600000US1150000--2017--Aggravated assault--rate,"Washington, District of columbia",place,529.4161724104142,rate,2017
+10,Violent crime,1600000US1150000,1600000US1150000--2017--Violent crime--rate,"Washington, District of columbia",place,948.7414477817549,rate,2017
+9,Motor vehicle theft,1600000US1150000,1600000US1150000--2017--Motor vehicle theft--rate,"Washington, District of columbia",place,366.729493408956,rate,2017
+7,All Crimes,1600000US1150000,1600000US1150000--2017--All Crimes--rate,"Washington, District of columbia",place,110209.92201414466,rate,2017
+2,Rape (revised definition),1600000US1150000,1600000US1150000--2017--Rape (revised definition)--rate,"Washington, District of columbia",place,63.83542851872986,rate,2017
