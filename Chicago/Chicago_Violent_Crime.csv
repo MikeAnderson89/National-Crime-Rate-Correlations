@@ -1,6 +1,5 @@
-,crime_type,id,key,name,place_name,type,value,variable,year
-26,Violent crime,1600000US1714000,1600000US1714000--2014--Violent crime--rate,"Chicago, Illinois","Chicago, IL",place,884.2852428361296,rate,2014
-169,Violent crime,1600000US1714000,1600000US1714000--2015--Violent crime--rate,"Chicago, Illinois","Chicago, IL",place,903.8386481449924,rate,2015
-170,Violent crime,1600000US1714000,1600000US1714000--2015--Violent crime--rate,"Chicago, Illinois","Chicago, IL",place,903.8386481449924,rate,2015
-183,Violent crime,1600000US1714000,1600000US1714000--2016--Violent crime--rate,"Chicago, Illinois","Chicago, IL",place,1105.4792152954346,rate,2016
-232,Violent crime,1600000US1714000,1600000US1714000--2017--Violent crime--rate,"Chicago, Illinois",,place,1098.8588673812555,rate,2017
+,index,year,crime_type,value,variable
+0,26,2014,Violent crime,884.2852428361296,rate
+1,169,2015,Violent crime,903.8386481449924,rate
+2,183,2016,Violent crime,1105.4792152954346,rate
+3,232,2017,Violent crime,1098.8588673812555,rate
