@@ -8,6 +8,10 @@
 6,2012,Violent crime,616.3793840767709,rate
 7,2013,Violent crime,596.901916803771,rate
 8,2014,Violent crime,582.4307523437237,rate
+<<<<<<< HEAD
+9,2015,Violent crime,630.6551074007293,rate
+=======
+>>>>>>> c6622bc907adf39ce475476a3a79ae2e3b9d9acf
 10,2015,Violent crime,630.6551074007293,rate
 11,2016,Violent crime,507.04435174938277,rate
 12,2017,Violent crime,464.4083671557914,rate
