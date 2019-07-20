@@ -8,7 +8,7 @@
 
 National Comparison Files
 - Main Jupyter Notebook: "United States/National Comparisons.ipynb"
-- Presentation: "Presentation/Project1Presentation.ppx"
+- Presentation: "Presentation/Project1Presentation.pptx"
 - Analysis: "Presentation/Project1 Written Analysis.docx"
 - Nashville Heatmap: "Nashville Heatmap/call_map.ipynb"
 - Cities Jupyter Notebook files are in their respective folders
